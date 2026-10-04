@@ -3,3 +3,4 @@ This is the 2nd line...
 3rd line added in feature-1 branch
 4th line added to local repo
 5th line added to remote
+6th line added
